@@ -1,0 +1,9 @@
+metric,value
+"Total GL spend (USD, trailing period)",277941.57
+AP outstanding (USD),41333.78
+AP overdue (USD),20992.44
+AR outstanding (USD),116270.7
+AR overdue (USD),640.15
+Avg days to pay vendors (AP),18.5
+Avg days to collect from customers (AR),29.0
+Cost centers over budget (latest period),1 / 8
