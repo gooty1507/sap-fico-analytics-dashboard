@@ -1,0 +1,137 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="504pt" height="302.4pt" viewBox="0 0 504 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1"><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M 0 302.4 
+L 504 302.4 
+L 504 0 
+L 0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 67.32 183.61 
+L 492.12 183.61 
+L 492.12 27.91 
+L 67.32 27.91 
+z
+" style="fill: #ffffff"/></g><g id="patch_3"><path d="M 86.63 183.61 
+L 105.54 183.61 
+L 105.54 35.32 
+L 86.63 35.32 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #2f6fed"/></g><g id="patch_4"><path d="M 136.40 183.61 
+L 155.31 183.61 
+L 155.31 72.21 
+L 136.40 72.21 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #2f6fed"/></g><g id="patch_5"><path d="M 186.16 183.61 
+L 205.07 183.61 
+L 205.07 105.52 
+L 186.16 105.52 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #2f6fed"/></g><g id="patch_6"><path d="M 235.93 183.61 
+L 254.84 183.61 
+L 254.84 43.04 
+L 235.93 43.04 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #2f6fed"/></g><g id="patch_7"><path d="M 285.69 183.61 
+L 304.60 183.61 
+L 304.60 102.35 
+L 285.69 102.35 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #2f6fed"/></g><g id="patch_8"><path d="M 335.46 183.61 
+L 354.37 183.61 
+L 354.37 53.91 
+L 335.46 53.91 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #2f6fed"/></g><g id="patch_9"><path d="M 385.22 183.61 
+L 404.13 183.61 
+L 404.13 73.85 
+L 385.22 73.85 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #2f6fed"/></g><g id="patch_10"><path d="M 434.99 183.61 
+L 453.90 183.61 
+L 453.90 109.52 
+L 434.99 109.52 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #2f6fed"/></g><g id="patch_11"><path d="M 105.54 183.61 
+L 124.45 183.61 
+L 124.45 145.62 
+L 105.54 145.62 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #f2994a"/></g><g id="patch_12"><path d="M 155.31 183.61 
+L 174.22 183.61 
+L 174.22 171.76 
+L 155.31 171.76 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #f2994a"/></g><g id="patch_13"><path d="M 205.07 183.61 
+L 223.98 183.61 
+L 223.98 183.43 
+L 205.07 183.43 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #f2994a"/></g><g id="patch_14"><path d="M 254.84 183.61 
+L 273.75 183.61 
+L 273.75 182.75 
+L 254.84 182.75 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #f2994a"/></g><g id="patch_15"><path d="M 304.60 183.61 
+L 323.51 183.61 
+L 323.51 150.00 
+L 304.60 150.00 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #f2994a"/></g><g id="patch_16"><path d="M 354.37 183.61 
+L 373.28 183.61 
+L 373.28 115.10 
+L 354.37 115.10 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #f2994a"/></g><g id="patch_17"><path d="M 404.13 183.61 
+L 423.05 183.61 
+L 423.05 70.49 
+L 404.13 70.49 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #f2994a"/></g><g id="patch_18"><path d="M 453.90 183.61 
+L 472.81 183.61 
+L 472.81 168.09 
+L 453.90 168.09 
+z
+" clip-path="url(#pce7cce4811)" style="fill: #f2994a"/></g><g id="matplotlib.axis_1"><g id="xtick_1"><g id="line2d_1"><path d="M 105.54 183.61 
+L 105.54 27.91 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_2"><defs><path id="me435cc881a" d="M 0 0 
+L 0 3.5 
+" style="stroke: #444444; stroke-width: 0.8"/></defs><g><use xlink:href="#me435cc881a" x="105.54" y="183.61" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_1"><text style="font-size: 11px; font-family: sans-serif" transform="translate(40.80 241.87) rotate(-35)">DE Production</text></g></g><g id="xtick_2"><g id="line2d_3"><path d="M 155.31 183.61 
+L 155.31 27.91 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_4"><g><use xlink:href="#me435cc881a" x="155.31" y="183.61" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_2"><text style="font-size: 11px; font-family: sans-serif" transform="translate(23.76 288.65) rotate(-35)">DE Research &amp; Development</text></g></g><g id="xtick_3"><g id="line2d_5"><path d="M 205.07 183.61 
+L 205.07 27.91 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_6"><g><use xlink:href="#me435cc881a" x="205.07" y="183.61" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_3"><text style="font-size: 11px; font-family: sans-serif" transform="translate(109.24 263.63) rotate(-35)">IN Customer Support</text></g></g><g id="xtick_4"><g id="line2d_7"><path d="M 254.84 183.61 
+L 254.84 27.91 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_8"><g><use xlink:href="#me435cc881a" x="254.84" y="183.61" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_4"><text style="font-size: 11px; font-family: sans-serif" transform="translate(131.34 283.01) rotate(-35)">IN Finance Shared Services</text></g></g><g id="xtick_5"><g id="line2d_9"><path d="M 304.60 183.61 
+L 304.60 27.91 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_10"><g><use xlink:href="#me435cc881a" x="304.60" y="183.61" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_5"><text style="font-size: 11px; font-family: sans-serif" transform="translate(206.74 265.06) rotate(-35)">US Human Resources</text></g></g><g id="xtick_6"><g id="line2d_11"><path d="M 354.37 183.61 
+L 354.37 27.91 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_12"><g><use xlink:href="#me435cc881a" x="354.37" y="183.61" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_6"><text style="font-size: 11px; font-family: sans-serif" transform="translate(277.32 250.49) rotate(-35)">US IT Operations</text></g></g><g id="xtick_7"><g id="line2d_13"><path d="M 404.13 183.61 
+L 404.13 27.91 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_14"><g><use xlink:href="#me435cc881a" x="404.13" y="183.61" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_7"><text style="font-size: 11px; font-family: sans-serif" transform="translate(342.74 239.52) rotate(-35)">US Marketing</text></g></g><g id="xtick_8"><g id="line2d_15"><path d="M 453.90 183.61 
+L 453.90 27.91 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_16"><g><use xlink:href="#me435cc881a" x="453.90" y="183.61" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_8"><text style="font-size: 11px; font-family: sans-serif" transform="translate(413.43 224.87) rotate(-35)">US Sales</text></g></g></g><g id="matplotlib.axis_2"><g id="ytick_1"><g id="line2d_17"><path d="M 67.32 183.61 
+L 492.12 183.61 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_18"><defs><path id="m6c644231cb" d="M 0 0 
+L -3.5 0 
+" style="stroke: #444444; stroke-width: 0.8"/></defs><g><use xlink:href="#m6c644231cb" x="67.32" y="183.61" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_9"><text style="font-size: 11px; font-family: sans-serif" x="60.32" y="187.78" transform="rotate(-0 60.32 187.78)">$0k</text></g></g><g id="ytick_2"><g id="line2d_19"><path d="M 67.32 144.21 
+L 492.12 144.21 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_20"><g><use xlink:href="#m6c644231cb" x="67.32" y="144.21" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_10"><text style="font-size: 11px; font-family: sans-serif" x="60.32" y="148.39" transform="rotate(-0 60.32 148.39)">$10k</text></g></g><g id="ytick_3"><g id="line2d_21"><path d="M 67.32 104.82 
+L 492.12 104.82 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_22"><g><use xlink:href="#m6c644231cb" x="67.32" y="104.82" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_11"><text style="font-size: 11px; font-family: sans-serif" x="60.32" y="109.00" transform="rotate(-0 60.32 109.00)">$20k</text></g></g><g id="ytick_4"><g id="line2d_23"><path d="M 67.32 65.42 
+L 492.12 65.42 
+" clip-path="url(#pce7cce4811)" style="fill: none; stroke: #e0e0e0; stroke-width: 0.6; stroke-linecap: square"/></g><g id="line2d_24"><g><use xlink:href="#m6c644231cb" x="67.32" y="65.42" style="fill: #444444; stroke: #444444; stroke-width: 0.8"/></g></g><g id="text_12"><text style="font-size: 11px; font-family: sans-serif" x="60.32" y="69.60" transform="rotate(-0 60.32 69.60)">$30k</text></g></g><g id="text_13"><text style="font-size: 11px; font-family: sans-serif" x="26.67" y="105.76" transform="rotate(-90 26.67 105.76)">Amount (USD)</text></g></g><g id="patch_19"><path d="M 67.32 183.61 
+L 67.32 27.91 
+" style="fill: none; stroke: #444444; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_20"><path d="M 492.12 183.61 
+L 492.12 27.91 
+" style="fill: none; stroke: #444444; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_21"><path d="M 67.32 183.61 
+L 492.12 183.61 
+" style="fill: none; stroke: #444444; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_22"><path d="M 67.32 27.91 
+L 492.12 27.91 
+" style="fill: none; stroke: #444444; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="text_14"><text style="font-size: 13.2px; font-family: sans-serif" x="279.72" y="21.91" transform="rotate(-0 279.72 21.91)">Cost center: budget vs. actual (2026-08)</text></g><g id="legend_1"><g id="patch_23"><path d="M 411.85 46.17 
+L 433.85 46.17 
+L 433.85 38.47 
+L 411.85 38.47 
+z
+" style="fill: #2f6fed"/></g><g id="text_15"><text style="font-size: 11px; font-family: sans-serif" x="442.65" y="46.17" transform="rotate(-0 442.65 46.17)">Budget</text></g><g id="patch_24"><path d="M 411.85 62.31 
+L 433.85 62.31 
+L 433.85 54.61 
+L 411.85 54.61 
+z
+" style="fill: #f2994a"/></g><g id="text_16"><text style="font-size: 11px; font-family: sans-serif" x="442.65" y="62.31" transform="rotate(-0 442.65 62.31)">Actual</text></g></g></g></g><defs><clipPath id="pce7cce4811"><rect x="67.32" y="27.91" width="424.80" height="155.70"/></clipPath></defs></svg>
