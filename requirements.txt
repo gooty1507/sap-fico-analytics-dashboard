@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+streamlit>=1.30
+plotly>=5.15
+openpyxl>=3.1
+
+# Dev-only: used by src/generate_previews.py to render the static
+# chart previews embedded in the README. Not required to run the app.
+matplotlib>=3.7
